@@ -1,0 +1,12 @@
+[submodule "Reference_works/FSGS"]
+	path = Reference_works/FSGS
+	url = https://github.com/VITA-Group/FSGS.git
+[submodule "Reference_works/DNGaussian"]
+	path = Reference_works/DNGaussian
+	url = https://github.com/Fictionarry/DNGaussian.git
+[submodule "Reference_works/CoR-GS"]
+	path = Reference_works/CoR-GS
+	url = https://github.com/jiaw-z/CoR-GS.git
+[submodule "Reference_works/SparseGS"]
+	path = Reference_works/SparseGS
+	url = https://github.com/ForMyCat/SparseGS.git
